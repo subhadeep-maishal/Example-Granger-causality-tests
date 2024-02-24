@@ -1,4 +1,7 @@
 # Example-Granger-causality-tests  :)
+
+developed in indian institute of technology kharagpur
+by Subhadeep Maishal
 Granger causality tests in Ocean
 
 
